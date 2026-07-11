@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460" role="img" aria-labelledby="title">
+  <title id="title">Carrots</title>
+  <rect width="640" height="460" fill="#f7fbf4"/>
+  <path d="M312 112c42 60 85 151 116 274-111-35-203-82-276-142 42-46 96-93 160-132z" fill="#f47b22"/>
+  <path d="M314 113c44 64 74 145 91 243-82-28-154-67-214-116 34-40 75-82 123-127z" fill="#ff9436"/>
+  <path d="M313 112c-11-48-3-83 24-106 15 38 17 74 5 108 28-32 62-48 103-48-21 39-55 64-102 74 36-2 70 11 102 39-47 16-90 10-129-19-38 23-78 24-120 4 27-28 66-45 117-52z" fill="#22985a"/>
+  <path d="M246 208l70 22M210 256l108 34M292 304l91 22" stroke="#d95d16" stroke-width="15" stroke-linecap="round" opacity=".55"/>
+</svg>

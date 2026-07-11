@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460" role="img" aria-labelledby="title">
+  <title id="title">Tomatoes</title>
+  <rect width="640" height="460" fill="#f4fbf5"/>
+  <circle cx="250" cy="250" r="118" fill="#e2372f"/>
+  <circle cx="372" cy="240" r="136" fill="#f04a3f"/>
+  <circle cx="328" cy="278" r="112" fill="#cf2928"/>
+  <path d="M304 130l34 54 44-44-16 58 66-9-55 35 49 34-62-5 10 61-38-50-39 49 10-61-62 6 49-35-56-34 67 9z" fill="#218a4f"/>
+  <path d="M202 205c34-34 80-48 138-43" fill="none" stroke="#ff7a70" stroke-width="18" stroke-linecap="round" opacity=".55"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460" role="img" aria-labelledby="title">
+  <title id="title">Bananas</title>
+  <rect width="640" height="460" fill="#fffaf0"/>
+  <path d="M121 241c130 135 301 150 427 42-18 94-94 144-199 151-104 6-202-34-292-120z" fill="#f5c842"/>
+  <path d="M104 202c127 116 290 130 437 43-26 62-83 101-170 118-103 20-205-10-305-91z" fill="#ffd85b"/>
+  <path d="M96 194l46-31c5 24 0 45-15 63zM519 244l47-15c-2 27-15 47-39 60z" fill="#6d4d2a"/>
+  <path d="M189 258c90 50 186 56 287 17" fill="none" stroke="#f0b92c" stroke-width="14" stroke-linecap="round" opacity=".7"/>
+</svg>

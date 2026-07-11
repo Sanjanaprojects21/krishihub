@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460" role="img" aria-labelledby="title">
+  <title id="title">Mangoes</title>
+  <rect width="640" height="460" fill="#fff8ed"/>
+  <path d="M420 73c-31 58-37 97-18 137" fill="none" stroke="#6f4b2a" stroke-width="15" stroke-linecap="round"/>
+  <path d="M391 111c53-36 106-40 159-12-42 48-95 62-159 42z" fill="#2f9b5a"/>
+  <path d="M159 263c-2-117 88-198 206-174 111 23 159 134 111 236-48 103-165 143-248 88-44-29-68-78-69-150z" fill="#f6b535"/>
+  <path d="M175 271c9-92 82-155 181-138 67 11 107 60 115 122-50-31-102-29-156 5-54 34-101 38-140 11z" fill="#f59a33"/>
+  <path d="M213 227c32-43 75-65 128-66" fill="none" stroke="#ffd678" stroke-width="19" stroke-linecap="round" opacity=".75"/>
+</svg>
