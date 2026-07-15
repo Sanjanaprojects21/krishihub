@@ -101,7 +101,7 @@ export default function FarmerDashboard() {
     <main className="dashboard-page">
       <aside className="dashboard-sidebar">
         <a className="brand dashboard-brand" href="/" aria-label="Krishi Hub home">
-          <span className="brand-mark">KH</span>
+          <span className="brand-mark"><img src="/krishi-logo.png" alt="" /></span>
           <span>Krishi Hub</span>
         </a>
 

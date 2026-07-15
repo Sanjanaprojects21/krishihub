@@ -192,7 +192,7 @@ export default function ProducePage() {
     <main className="produce-page">
       <header className="produce-header buyer-market-header">
         <a className="brand" href="/" aria-label="Krishi Hub home">
-          <span className="brand-mark">KH</span>
+          <span className="brand-mark"><img src="/krishi-logo.png" alt="" /></span>
           <span>Krishi Hub</span>
         </a>
 
